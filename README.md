@@ -24,7 +24,7 @@ This project is a basic ToDo application with features such as adding tasks, mar
 ### The code was tested using Unit Testing 
 The test cases are mentioned in the src/lib.rs
 
-### What worked? What didn't? How Satisfied are you with the result? What would uou like to improve in the future?
+### What worked? What didn't? How Satisfied are you with the result? What would you like to improve in the future?
 Rust is considered one of the safest programming languages. I tried coding my project using safe rust but it did not work out for me hence I had to resort to unsafe rust, which is what I would like to improve upon in the future.
 
 
